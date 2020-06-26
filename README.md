@@ -18,7 +18,7 @@
 This planner very easy to use.When you open the page you can see present day date on header.Below are input fields with respective time slots to enter events and click respective save buttons so that you can just have a check on it when ever you need to look out activities .
 
 ## Links:
-* [I'm the deployed app link](https://himaja830.github.io/Day-Planner/)
+* [I'm the deployed app link](https://himaja830.github.io/DayEventPlanner/index)
 * [I'm github repo link](https://github.com/himaja830/Day-Planner)
 
 ## Screenshot of the app:
